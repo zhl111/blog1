@@ -10,7 +10,7 @@
 # Basic configure for Hugo engine 
 # ---------------------------------------------------------------
 
-# 站点域名，比如： https://hugo-next.eu.org
+# 站点域名，比如： https://zhl111.github.io/blog1
 # Website domain, eg: https://hugo-next.eu.org
 baseURL: /
 # 站点标题
